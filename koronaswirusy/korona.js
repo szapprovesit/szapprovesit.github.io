@@ -24,6 +24,6 @@
 	  if (distance < 0) {
 	    clearInterval(x);
 	    document.getElementById("demo").innerHTML = "dołącz";
-	    document.getElementById("link").href = "link";
+	    document.getElementById("link").href = "https://meet.google.com/pnq-cfgk-trp";
 	  }
 	}, 1000);
